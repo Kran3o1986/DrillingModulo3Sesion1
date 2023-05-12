@@ -1,5 +1,4 @@
-# Modulo3Sesion1
-Drilling módulo3 sesión 1
+Drilling Módulo 3 Sesión 1
 
 Una  fundación  de  ayuda social llamada “Fundación Dar+”,  busca  digitalizar  su  proceso  de  entrega  de 
 beneficios. Dado que solo disponen de una cantidad limitada, necesitan que las personas se inscriban lo 
